@@ -1,7 +1,7 @@
 import tkinter
 from tkinter import *
 from tkinter import messagebox as MessageBox
-from methods import Automata
+from models.methods import Automata
 
 root = Tk()
 root.title("comprobacion expresiones regulares ")
